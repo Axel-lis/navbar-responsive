@@ -60,7 +60,7 @@ body{
 }
 /**la instrucción @media le dice al navegador, bajo ciertas circunstancias, mostrá X parte del código, y si no
 se cumplen las características del código no lo hará. Por ejemplo> si nuestra pantalla es menor
-que 400 pixeles(max-width:600) corré el siguiente codigo { // } **/
+que 600 pixeles(max-width:600) corré el siguiente codigo { // } **/
 @media(max-width:600px){
  .toggle-button{
     display: flex;
